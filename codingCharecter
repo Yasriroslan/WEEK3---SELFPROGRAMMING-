@@ -1,0 +1,15 @@
+package selfProgramming;
+
+public class charecter {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		char topGrade = 'A';
+		char terminator = ';', separator = ' ';
+		
+		System.out.println(topGrade);
+		System.out.println(terminator);
+		
+	}
+
+}
